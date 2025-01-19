@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|g:\\vstudio\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\test_database\\test_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|g:\\vstudio\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\test_database\\test_database\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|g:\\vstudio\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\test_database\\test_database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|g:\\vstudio\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\test_database\\test_database\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|g:\\vstudio\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\test_database\\test_database\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|g:\\vstudio\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\test_database\\test_database\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|g:\\vstudio\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\test_database\\test_database\\log_in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1128BB4F-6972-4D85-BEB5-B07C437EC232}|test_DataBase\\test_DataBase.csproj|solutionrelative:test_database\\log_in.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\DataBase.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\DataBase.cs",
+              "ToolTip": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\DataBase.cs",
+              "RelativeToolTip": "test_DataBase\\DataBase.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:52:32.948Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log_in.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\log_in.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\log_in.cs",
+              "ToolTip": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\log_in.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "test_DataBase\\log_in.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T19:58:34.666Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log_in.cs",
+              "DocumentMoniker": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\log_in.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\log_in.cs",
+              "ToolTip": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\log_in.cs",
+              "RelativeToolTip": "test_DataBase\\log_in.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwDQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:23:33.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sign_up.cs",
+              "DocumentMoniker": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\sign_up.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\sign_up.cs",
+              "ToolTip": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\sign_up.cs",
+              "RelativeToolTip": "test_DataBase\\sign_up.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:52:48.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\Program.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\Program.cs",
+              "ToolTip": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\Program.cs",
+              "RelativeToolTip": "test_DataBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:43:56.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "log_in.Designer.cs",
+              "DocumentMoniker": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\log_in.Designer.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\log_in.Designer.cs",
+              "ToolTip": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\log_in.Designer.cs",
+              "RelativeToolTip": "test_DataBase\\log_in.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAkwLsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:52:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "test_DataBase\\Form1.Designer.cs",
+              "ToolTip": "G:\\VStudio\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\test_DataBase\\test_DataBase\\Form1.Designer.cs",
+              "RelativeToolTip": "test_DataBase\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:52:37.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
